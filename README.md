@@ -1,4 +1,4 @@
-# Opção 1
+## Opção 1
 # Teste de Programação - Aplicação CRUD Simples
 
 Este projeto é uma aplicação web simples com operações de CRUD (Criar, Ler, Atualizar, Deletar) 
@@ -21,9 +21,8 @@ para algum tipo de cadastro. Por exemplo: cadasto de pessoas(contato) com os cam
 
 ---
 
-# Opção 2
-# Utilizar um repositório que já tenhas algo relacionado conntendo as tecnologias
-citadas acima.
+## Opção 2
+# Utilizar um repositório que já tenhas algo relacionado contendo as tecnologias citadas acima.
 
 ## Objetivo
 - Enviar o link do seu repositório no github ao responsável assim que terminar.

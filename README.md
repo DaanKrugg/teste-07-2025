@@ -4,12 +4,10 @@
 Este projeto é uma aplicação web simples com operações de CRUD (Criar, Ler, Atualizar, Deletar) 
 para algum tipo de cadastro. Por exemplo: cadasto de pessoas(contato) com os campos: **Nome**, **Email** e **CPF**.
 
-## Tecnologias Utilizadas
+## Tecnologias a Utilizar
 
 ### Backend
 - PHP / Laravel (escolha conforme sua implementação)
-- Banco de dados: MySQL preferencial
-- API RESTful com retorno em JSON
 
 ### Frontend
 - Angular (qualquer versão) **ou**

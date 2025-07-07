@@ -24,8 +24,4 @@ para algum tipo de cadastro. Por exemplo: cadasto de pessoas(contato) com os cam
 
 ## Objetivo
 - Enviar o link do seu repositório no github ao responsável assim que terminar.
-- Apresentar rapidamente (1 a 2 minutos) o projeto na entrevista se solicitado.
-
-## Objetivo
-- Enviar o link do seu repositório no github ao responsável assim que terminar.
-- Apresentar rapidamente (1 a 2 minutos) o projeto na entrevista se solicitado.
+- Apresentar (até 10 minutos) o projeto na entrevista se solicitado.
